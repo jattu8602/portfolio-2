@@ -1,0 +1,100 @@
+okay your task is to build the  portfolio based on the given  details -  use locomotivejs , threejs , gsap , scrolltigger , and framermotion and images as well  -     (pasted as text )       make the   animated nice  , mobile responsive portfolio                          ---------------         Dummy Person Profile: Akash Verma
+This profile is for a recent computer science graduate aiming for a Software Development Engineer (SDE) role.
+
+Home / Landing Page Image to use here:
+A professional headshot. It should be a clear photo of you from the shoulders up, smiling, against a simple background (like a plain wall or a blurred outdoor scene). Wear a clean, casual shirt or a formal shirt.
+
+Main Heading:
+
+Hi, I'm Akash Verma
+
+Sub-heading / Tagline:
+
+A Software Developer with a passion for building efficient and scalable backend systems. I love solving complex problems with clean code.
+
+Action Buttons:
+
+[View My Resume] [Contact Me]
+
+Social Links (as icons):
+
+LinkedIn | GitHub | LeetCode | Medium (or your blog)
+
+About Me My journey into the world of technology began with a simple "Hello, World!" program in C++. That moment sparked a curiosity that has driven me ever since. I am a recent graduate with a B.Tech in Computer Science from the University Institute of Technology, RGPV, Bhopal.
+Throughout my degree, I've developed a strong foundation in Data Structures, Algorithms, and Object-Oriented Programming. I enjoy diving deep into how things work, which led me to focus on backend development. During my internship at Growthify Solutions, I had the opportunity to build and deploy RESTful APIs using Spring Boot, which solidified my interest in creating robust server-side applications.
+
+I am a dedicated problem-solver, consistently practicing on platforms like LeetCode and CodeChef. I'm now eager to apply my skills and passion to a challenging full-time role as a Software Development Engineer, where I can contribute to meaningful projects and continue to learn from experienced professionals.
+
+Skills Languages: Java, Python, JavaScript, SQL
+Backend: Spring Boot, Node.js, Express.js, REST APIs
+
+Frontend: React.js, HTML5, CSS3, Tailwind CSS
+
+Databases: MySQL, MongoDB
+
+Developer Tools: Git, GitHub, Docker, Postman, Jira
+
+Core Concepts: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
+
+Experience Software Development Intern | Growthify Solutions (Remote) (June 2024 - August 2024)
+Developed and implemented RESTful APIs using Java and Spring Boot for the new 'User Profile' module, serving over 10,000 users.
+
+Collaborated with the frontend team to integrate APIs, ensuring seamless data flow and improving data retrieval times by 15%.
+
+Wrote unit and integration tests using JUnit and Mockito, which increased the code coverage of the module to 90% and reduced pre-deployment bugs.
+
+Participated in Agile development cycles, daily stand-up meetings, and code reviews, contributing to a collaborative team environment.
+
+Projects Project 1: Shopper's Bay - E-commerce Platform A full-stack e-commerce website that allows users to browse products, add them to a cart, and proceed to checkout.
+Image to use here:
+
+A screenshot of the project's homepage or product listing page. You can put this image inside a laptop or browser frame mockup to make it look more professional.
+
+Features: Secure user authentication with JWT, product search and filtering, shopping cart functionality, and a responsive user interface.
+
+Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT
+
+Links: [Live Demo] [GitHub Repository]
+
+Project 2: CodeSnip - Code Snippet Manager
+A backend-focused application for developers to save, manage, and search for useful code snippets. The primary focus was on building a clean and well-documented REST API.
+
+Image to use here:
+
+A screenshot of the API endpoints being tested in Postman or a screenshot of the Swagger UI documentation for your API. This highlights the technical nature of the project.
+
+Features: Secure CRUD (Create, Read, Update, Delete) operations for code snippets, search functionality based on language or tags, and user-specific data storage.
+
+Tech Stack: Java, Spring Boot, MySQL, Spring Security
+
+Links: [GitHub Repository]
+
+Project 3: CampusConnect - College Discussion Forum
+A web-based forum where students can post questions, share notes, and discuss topics related to different college subjects. This was a collaborative team project.
+
+Image to use here:
+
+A screenshot showing a discussion thread with posts and comments within your application. This demonstrates the core functionality.
+
+My Role: I was responsible for the entire backend development, including database schema design, user authentication, and the logic for handling posts and comments.
+
+Tech Stack: Python, Django, SQLite, HTML, CSS
+
+Links: [GitHub Repository]
+
+Achievements GATE 2025: Secured an All India Rank (AIR) of 2145 in Computer Science & IT.
+LeetCode: Consistently solve problems, with 500+ problems solved and a contest rating of 1750 (Knight). [Link to LeetCode Profile]
+
+CodeChef: Achieved a 4-Star rating (Max: 1820). [Link to CodeChef Profile]
+
+Smart India Hackathon 2024: Reached the Finals of the world's biggest open innovation model. Our team built a web application for digital management of village-level services.
+
+Education University Institute of Technology, RGPV, Bhopal Bachelor of Technology (B.Tech), Computer Science & Engineering (2021 - 2025)
+CGPA: 8.5/10
+
+Contact I'm actively looking for full-time SDE roles and would love to hear from you. Whether you have a question or just want to connect, feel free to reach out!
+Email: akash.verma.dev@email.com
+
+LinkedIn: linkedin.com/in/akash-verma-dev
+
+Location: Bhopal, Madhya Pradesh, India
